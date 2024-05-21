@@ -1,0 +1,15 @@
+#sectionBox3{
+    height: 27%;
+    /* border: 5px solid rosybrown; */
+    display: flex;
+    background: radial-gradient( rgb(166, 160, 161),rgb(110, 110, 103),rgb(51, 50, 50));
+}
+
+#SectionTitle{
+    margin: 0;
+    /* border: 3px solid red; */
+    /* background-color: bisque; */
+    background: radial-gradient( rgb(166, 160, 161),rgb(110, 110, 103),rgb(51, 50, 50));
+    text-align: center;
+
+}

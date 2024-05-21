@@ -1,0 +1,8 @@
+#MainBox3{
+    /* border: 2px solid blue; */
+    display: block;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}

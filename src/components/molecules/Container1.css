@@ -1,0 +1,14 @@
+#container1{
+    width: 60%;
+    height: 100%;
+    padding-left: 17%;
+    /* border: 5px solid blue; */
+    display: flex;
+    /* background-color: black; */
+}
+
+#Logo{
+    height: 100%;
+    /* border: 3px solid yellow; */
+    display: flex;
+}

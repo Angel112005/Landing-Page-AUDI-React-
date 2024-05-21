@@ -1,0 +1,23 @@
+#Title3 {
+    border: 3px solid black;
+    margin: 0;
+    font-size: 50px;
+    text-align: center;
+    padding: 3px;
+    animation: backgroundChange 10s infinite;
+}
+
+@keyframes backgroundChange {
+    0% {
+        background-color: #d0c68b4a; /* Dorado */
+    }
+    33% {
+        background-color: #b8b8b8; /* Aluminio */
+    }
+    66% {
+        background-color: #7cb2c6; /* Luz Coral */
+    }
+    100% {
+        background-color: #c4b76b; /* Dorado */
+    }
+}

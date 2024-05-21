@@ -1,0 +1,9 @@
+#Text1{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    font-size: 400%;
+    /* max-width: 50px; */
+    color: white;
+    padding-left: 3%;
+}

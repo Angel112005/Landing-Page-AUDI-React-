@@ -1,0 +1,29 @@
+#Text2 {
+    margin: 0;
+    border: 4px solid black;
+    font-size: 29px;
+    text-align: center;
+    padding: 8px;
+    background: linear-gradient(135deg, #5a5a5a, #1a1a1a);
+    color: white;
+    border-radius: 10px;
+    transition: transform 0.3s, background 0.3s;
+}
+
+#Text2:hover {
+    transform: scale(1.05);
+    background: linear-gradient(135deg, #3a3a3a, #0a0a0a);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#Text2 {
+    animation: fadeIn 2s ease-in-out;
+}

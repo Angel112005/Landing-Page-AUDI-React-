@@ -1,0 +1,8 @@
+#sectionBox1{
+    width: 100%;
+    height: 15%;
+    /* border: 5px solid red; */
+    display: flex;
+    align-items: center;
+    background-color: black;
+}

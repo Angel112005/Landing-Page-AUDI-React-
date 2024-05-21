@@ -1,0 +1,7 @@
+#sectionBox2{
+    /* width: 100%; */
+    height: 50.8%;
+    /* border: 5px solid rosybrown; */
+    display: flex;
+    background: radial-gradient( rgb(166, 160, 161),rgb(110, 110, 103),rgb(51, 50, 50));
+}
